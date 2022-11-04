@@ -1,9 +1,9 @@
 # integrative-project
-#Introdução ao Sistema
+**#Introdução ao Sistema**
 
 Nosso sistema terá como solução principal incentivar a leitura para as pessoas.
 
-#Apresentação
+**#Apresentação**
 
 Nosso sistema terá recompensas por tokens (moedas virtuais), onde a cada capítulo de livro lido e por livro lido ele receberá uma certa quantidade de tokens. Os tokens acumulados pelo usuário poderá ser utilizado como desconto em lojas parceiras ao aplicativo, ou seja, caso o usuário for fazer uma compra em uma dessas lojas parceiras ele receberá um desconto de acordo com a quantidade de tokens que ele possui.
 
@@ -11,13 +11,13 @@ Um problema também observado é como garantir que o usuário está realmente le
 
 Também haverá uma forma de incentivo que será realizar um resumo do livro que lhe garantirá o dobro de tokens, além de construirmos um algoritmo que verifica se o que o usuário colocou no resumo é copiado e colado da internet ou é realmente das suas próprias palavras.
 
-#Usuários
+**#Usuários**
 
 Os usuários serão divididos por: Administradores (quem terá total acesso ao aplicativo, podendo fazer o que bem entender), Suporte (usuário que realizará o suporte/ajuda dos clientes que estão fazendo o uso do sistema) Cliente (usuário que fará o uso do sistema afim de buscar suas recompensas pela leitura).
 
 
 
-#Necessidades e Regras de Negócio
+**#Necessidades e Regras de Negócio**
 
 Cálculo de Leitura – Cálculo baseado no tempo que uma pessoa normal lê determinadas palavras por página que estava sendo lida pelo consumidor final.
 Cálculo de Tokens – Cálculo feito a partir de quantas palavras foram lidas ao final de um capítulo ou livro.
@@ -41,7 +41,7 @@ Requisitos Não-Funcionais
 •	Autenticação por celular ou digital;
 •	Linguagens a ser utilizadas: Kotlin, Java, JavaScript, Swift, ReactNative.
 
-#Tecnologias Previstas
+**#Tecnologias Previstas**
 Seria necessário a implementação de uma Inteligência Artificial depois de um tempo, pois ela faria com que a chance de burladores do sistema de tokens diminuísse drasticamente, além de formar perfis de usuários como tal.
 
 
